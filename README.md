@@ -13,7 +13,7 @@ Aqui tienes un ejemplo de como utilizar el paquete en tu codigo:
 ````go
 import (
 	"fmt"
-	"github.com/asanchezg96/greetings"
+	"github.com/alexroel/greetings"
 )
 
 func main() {
@@ -26,5 +26,5 @@ func main() {
 }
 
 ````
-Este ejemplo importa el paquete github.com/asanchezg96/gretings y llama a la funcion Hello, con un saludo personalizado.
+Este ejemplo importa el paquete github.com/alexroel/greetings y llama a la funcion Hello, con un saludo personalizado.
 Si ocurre un error, se imprime un mensaje de error.
